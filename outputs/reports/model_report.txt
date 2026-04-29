@@ -1,0 +1,14 @@
+Credit Card Fraud Detection Model Report
+==================================================
+
+{'precision': 0.2536, 'recall': 0.8699, 'f1_score': 0.3927, 'roc_auc': 0.9793, 'pr_auc': 0.8419, 'threshold': 0.45, 'fraud_cost': 95750, 'confusion_matrix': [[70764, 315], [16, 107]], 'classification_report': '              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     71079\n           1       0.25      0.87      0.39       123\n\n    accuracy                           1.00     71202\n   macro avg       0.63      0.93      0.70     71202\nweighted avg       1.00      1.00      1.00     71202\n'}
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     71079
+           1       0.25      0.87      0.39       123
+
+    accuracy                           1.00     71202
+   macro avg       0.63      0.93      0.70     71202
+weighted avg       1.00      1.00      1.00     71202
