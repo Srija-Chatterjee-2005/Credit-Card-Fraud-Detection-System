@@ -61,7 +61,7 @@ Streamlit Dashboard 🖥️
 
 ---
 
-## **🔄 E. WORKFLOW **
+## **🔄 E. WORKFLOW**
 ---
 
 Transaction Data → Data Cleaning → Feature Engineering → SMOTE → Model → Fraud Prediction → Decision → Dashboard.
